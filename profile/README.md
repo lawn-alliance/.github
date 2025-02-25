@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-**Here are some ideas to get you started:**
+Welcome to the LAWN Alliance github!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Our public repos attempt to be as open to everyone as possible.
+As they are generally built to solve problems for our alliance, we may decline to spend time on features we will not use. However you are always free to contribute via a merge request.
 
+Repos beginning with `lawn-` are specifically designed for the alliance and may have abnormal requirements. We recommend using them as a base for your own app. Assistance with these will be limited.
+
+Repos beginning with `aa-`, `allianceauth-` or anything referencing allianceauth are designed for anyone to use. Support for these will absolutely be offered.
